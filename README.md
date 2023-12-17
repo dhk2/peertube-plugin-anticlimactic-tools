@@ -1,3 +1,3 @@
-# PeerTube plugin Quickstart
+# Anti-climactic tools
 
-See https://docs.joinpeertube.org/#/contribute-plugins?id=write-a-plugintheme
+tools for managing federated peertube instances
