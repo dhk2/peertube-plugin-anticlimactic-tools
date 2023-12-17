@@ -1,2 +1,3 @@
-# peertube-plugin-anticlimactic-tools
-Tools for managing PeerTube federation
+# PeerTube plugin Quickstart
+
+See https://docs.joinpeertube.org/#/contribute-plugins?id=write-a-plugintheme
