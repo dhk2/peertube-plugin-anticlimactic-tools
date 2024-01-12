@@ -1,0 +1,1 @@
+function l({registerHook:r,peertubeHelpers:i,registerVideoField:n,registerClientRoute:e}){console.log("Hello world"),e({route:"anticlimactic/settings",onMount:async({rootEl:t})=>{let o="<h1>eat at joes</h1>";t.innerHTML=o}})}export{l as register};
